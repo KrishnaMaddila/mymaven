@@ -1,0 +1,15 @@
+In this blog, We will learn how to run terraform using Jenkins job.
+First, we need to know what is Jenkins?? Basically, Jenkins is a CI/CD tool. 
+Jenkins is an open-source that is written in Java. 
+Continuous Integration & Continuous Delivery are integral parts of DevOps.
+Therefore Jenkins is quite a famous tool. 
+As they are used for integrating multiple stages of the methodology. 
+We can see many CI/CD tools in the market but Jenkins is the most popular tool which is a JAVA-based tool. 
+
+Now, What is terraform ?? Terraform is an open-source infrastructure as a code software tool. 
+Terraform is ow by HashiCorp. 
+It provides a consistent CLI workflow to manage hundreds of cloud services. 
+Terraform codifies cloud APIs into declarative human-readable configuration files. 
+Terraform can manage low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features. 
+The Terraform community has already written more than 1600 providers to manage hundreds of different types of resources and services, and this number continues to increases. 
+You can find all available providers on the Terraform Registry, including Google Cloud Platform (GCP), Amazon Web Services (AWS), Azure, and many more.
